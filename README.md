@@ -31,9 +31,7 @@ Next steps:
 - Node.js
 - API's
 </p>
-          
-<p align="center">
-## 🔖 Layout
+         
 
 
 <p align="center"> ## 🔖 Figma </p><br> 
