@@ -36,7 +36,7 @@ Next steps:
 ## 🔖 Layout
 </p>
 
-<h2 align="center">Figma</h2><br> 
+<h2 align="center">## 🔖 Figma</h2><br> 
 <p align="center"><img alt="Form" src="https://github.com/viviandemitry/form/blob/2de4a121d8fc75b53c2c8ba815bcd1df01d0546e/Desktop%20-%205.png"> </p>
 <p align="center"><img alt="List" src="https://github.com/viviandemitry/form/blob/2de4a121d8fc75b53c2c8ba815bcd1df01d0546e/Desktop%20-%204.png"> </p>
 
