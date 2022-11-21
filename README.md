@@ -4,9 +4,9 @@
 <p align="center">
 ## 💻 Project
 
-The objective of this project is:
--Designing a form and a list on Figma;
--Build the designs with HTML and CSS;
+The objective:
+-Design a form and a list on Figma;
+-Build the design with HTML and CSS;
 -To create API's using Axios (Post and Get);
 -To use Hooks to manage values;
 -and finally, to have a list to storage the Form content.
