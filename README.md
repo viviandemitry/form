@@ -32,7 +32,7 @@ Next steps:
 - API's
 </p>
           
-<p align="center>
+<p align="center">
 ## 🔖 Layout
 
 
