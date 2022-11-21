@@ -12,11 +12,11 @@
 <li>To use Hooks to manage values;</li>
 <li>and finally, to have a list to storage the Form content.</li>
 </ul> 
-
 </p>
-<p align="center>
-## 🚀 Technologies
 
+<p align="center">
+## 🚀 Technologies
+          
 It was developed with the technologies bellow:
 
 - Figma
@@ -31,6 +31,7 @@ Next steps:
 - Node.js
 - API's
 </p>
+          
 <p align="center>
 ## 🔖 Layout
 </p>
