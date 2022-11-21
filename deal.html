@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="deal3.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <img class="logo" src="logo.png" alt="logo">
+    <!--div para quadrado central-->
+    <div class="container">
+       <!--div para o lado do formulário-->
+       <form action="/action_deal.js" method="get">
+       <div class="form-side">
+          <div class="title">
+            <h1>ÁREA DE CADASTRO</h1>
+          </div>
+          <div class="name">
+            <label for="name">NOME COMPLETO:</label>
+            <input type="text" id="name" name="name" placeholder="Digite seu nome completo" required/>
+          </div>
+          <div class="email">
+            <label for="email">E-MAIL:</label>
+            <input type="email" id="email" name="email" placeholder="Digite seu email" required/>
+          </div>
+          <div class="aside">
+          <div class="date">
+            <label for="date">DATA DE NASCIMENTO:</label>
+            <input type="datetime-local" id="datebd" name="date" placeholder="Digite sua data de nascimento:" required/>
+          </div>
+          <div class="sexo">
+            <label for="sexo">SEXO:</label>
+            <select id="sexo" name="sexo" placeholder="Selecione seu sexo" required>
+                <option value="fem">F</option>
+                <option value="masc">M</option>
+            </select>
+        </div>
+          </div>
+          <div class="button">
+          <input type="button" onclick="formFunction()" value="Submit"></button>
+        </div>
+        </div>
+    </form>
+       -<!--div para o lado da imagem-->
+       <div class="img-side">
+         <img src="lamp.jpg" alt="lamp"/>
+       </div>
+
+    </div>
+    <script>
+        function myFunction() {
+            document.getElementById("console")
+        }
+    </script>
+
+</body>
+</html>
