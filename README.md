@@ -12,7 +12,7 @@ The objective:
 -and finally, to have a list to storage the Form content.
 
 </p>
-
+<p align="center>
 ## 🚀 Technologies
 
 It was developed with the technologies bellow:
@@ -28,9 +28,10 @@ Next steps:
 - Axios
 - Node.js
 - API's
-
+</p>
+<p align="center>
 ## 🔖 Layout
-
+</p>
 
 <h2 align="center">Figma</h2><br> 
 <p align="center"><img alt="Form" src="https://github.com/viviandemitry/form/blob/2de4a121d8fc75b53c2c8ba815bcd1df01d0546e/Desktop%20-%205.png"> </p>
