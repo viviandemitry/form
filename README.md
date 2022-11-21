@@ -4,12 +4,14 @@
 <p align="center">
 ## 💻 Project
 
-The objective:
--Design a form and a list on Figma;
--Build the design with HTML and CSS;
--To create API's using Axios (Post and Get);
--To use Hooks to manage values;
--and finally, to have a list to storage the Form content.
+<p align="center">The objective:</p>
+<ul>
+ <li>Design a form and a list on Figma;</li>
+<li>Build the design with HTML and CSS;</li>
+<li>To create API's using Axios (Post and Get);</li>
+<li>To use Hooks to manage values;</li>
+<li>and finally, to have a list to storage the Form content.</li>
+</ul> 
 
 </p>
 <p align="center>
